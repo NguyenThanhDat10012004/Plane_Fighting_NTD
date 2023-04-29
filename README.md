@@ -2,6 +2,7 @@
 # Plane_Fighting_NTD of bongbong1001
 - Game sử dụng thư viện SDL_2
 - Game sử dụng ngôn ngữ c++
+- Được tham khảo từ nguồn : https://www.youtube.com/results?search_query=phattrienphanmem123az
 
 ## Giới Thiệu
 - Plane fighting là 1 game chiến đấu. Người chơi sẽ được điều khiển 1 phi cơ chiến đấu để tiêu diệt mục tiêu vật cản ngăn mình 
