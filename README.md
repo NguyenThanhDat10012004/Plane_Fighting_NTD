@@ -28,7 +28,7 @@ chơi ở cuối là số điểm mà mình đạt được.
 - Class AmoObject để quản lí đạn của địch và phi cơ chính.
 ## Hướng cải thiện game
 - Dựa theo những class mà game có sẵn, người lập trình có thể tạo thêm các năng lượng hỗ trợ trên đường chơi để người chơi có thể ăn giúp 
-  tăng hp hoặc tăng sức mạnh của viên đạn mà mình bắn ra.
+  tăng hp hoặc tăng sức mạnh của viên đạn mà mình bắn ra. 
 - Người lập trình có thể cải thiện đồ hoạ đẹp hơn, dài hơn để người chơi có thể cảm nhận background không bị lặp.
 - Người lập trình có thể tạo ra sự bất tử sau khi hồi sinh cho nhân vật để tránh va chạm với địch khi mới hồi sinh.
 ## Đồ hoạ
