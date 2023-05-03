@@ -55,7 +55,7 @@ void ExploreObject::render( int x, int y, SDL_Rect* clip )
 }
 bool ExploreObject::loadFromFile( std::string path )
 {
-    free();
+    
     SDL_Texture* newTexture = NULL;
 
     //Load image at specified path
