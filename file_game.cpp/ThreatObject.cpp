@@ -29,7 +29,7 @@ void ThreatObject::Handlemove()
 }
 bool ThreatObject::loadFromFile( std::string path )
 {
-    free();
+    
     SDL_Texture* newTexture = NULL;
 
     //Load image at specified path
