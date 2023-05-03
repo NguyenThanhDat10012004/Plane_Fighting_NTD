@@ -21,7 +21,7 @@ void PlayPower::SetNumber(const int& num)
 }
 bool PlayPower::loadFromFile( std::string path )
 {
-    free();
+    
     SDL_Texture* newTexture = NULL;
 
     //Load image at specified path
