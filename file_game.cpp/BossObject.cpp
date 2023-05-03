@@ -105,7 +105,7 @@ void BossObject::render( int x, int y)
 }
 bool BossObject::loadFromFile( std::string path )
 {
-    free();
+    
     SDL_Texture* newTexture = NULL;
 
     //Load image at specified path
