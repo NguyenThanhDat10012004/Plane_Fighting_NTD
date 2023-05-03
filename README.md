@@ -31,6 +31,13 @@ chơi ở cuối là số điểm mà mình đạt được.
   tăng hp hoặc tăng sức mạnh của viên đạn mà mình bắn ra. 
 - Người lập trình có thể cải thiện đồ hoạ đẹp hơn, dài hơn để người chơi có thể cảm nhận background không bị lặp.
 - Người lập trình có thể tạo ra sự bất tử sau khi hồi sinh cho nhân vật để tránh va chạm với địch khi mới hồi sinh.
+## Cách chạy chương trình
+- Cài đặt SDL2 và MakeFile vào vscode dựa theo hướng dẫn của lazzyfoo và youtube.
+- Tải tất cả thư mục có trong github.
+- Tạo 1 folder mới để sử dụng trong vscode chạy chương trình.
+- Đưa hết các file .cpp, .h, Image, Music and sound effect ở trong thư mục vào trong folder vừa tạo.
+- Sử dụng MakeFile để tạo file thực thi.
+- Cuối cùng chạy file game.exe vừa tạo được và cùng thưởng thức game.
 ## Đồ hoạ
 - Các nút của menu được lấy từ nguồn : https://www.shutterstock.com/vi/image-vector/cartoon-buttons-set-game-illustration-1119396701.
 - Các hoạt hoạ của nhân vật và background được lấy từ nguồn : https://phattrienphanmem123az.com/lap-trinh-game-cpp/goi-image-gia-re.html.
