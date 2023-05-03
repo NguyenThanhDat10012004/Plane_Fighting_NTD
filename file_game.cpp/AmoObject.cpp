@@ -25,7 +25,7 @@ bool AmoObject::loadFromFile( std::string path )
 {
     //Get rid of preexisting texture
     //The final texture
-    free();
+    
     SDL_Texture* newTexture = NULL;
 
     //Load image at specified path
