@@ -735,6 +735,14 @@ printf( "Failed to initialize!\n" );
                         
                         num_boss = 100;
                         distance = 0;
+                        for(int i = 0; i < NUM_THREATS; i++)
+                        {
+                            ThreatObject* p_threat = p_Threats + i;         
+                            if((p_threat ))
+                            {
+                                 (p_threat )->Reset(SCREEN_WIDTH + i * 400, i);
+                            }
+                        }
                         is_run_ = true;
                         boss->set_Ox_Oy(SCREEN_WIDTH - 400, SCREEN_HEIGHT - 500);
                         quit = 0;
